@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Bake&Shake</title>
-	<link href="{{ asset('/css/style.css')}}" rel="stylesheet" type="text/css">
+	<link href="{{secure_asset('/css/style.css')}}" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css2?family=Lexend+Zetta&family=Poiret+One&display=swap" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
